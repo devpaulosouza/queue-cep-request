@@ -1,0 +1,13 @@
+{
+  "name": "queue-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.4",
+    "dotenv": "^8.2.0"
+  }
+}
