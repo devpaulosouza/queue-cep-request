@@ -23,7 +23,7 @@ const APP_SECRET = process.env.APP_SECRET
  * URL da API de enderecos
  * documentacao: https://webmaniabr.com/docs/rest-api-cep-ibge/
  */
-URL = 'https://webmaniabr.com/api/1/cep/'
+const URL = 'https://webmaniabr.com/api/1/cep/'
 
 /**
  * enfileira as requisições para serem executadas de forma síncrona
